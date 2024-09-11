@@ -1,0 +1,16 @@
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Health Calculator\obj\Debug\net5.0\Health Calculator.csproj.AssemblyReference.cache
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Health Calculator\obj\Debug\net5.0\Health Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Health Calculator\obj\Debug\net5.0\Health Calculator.AssemblyInfoInputs.cache
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Health Calculator\obj\Debug\net5.0\Health Calculator.AssemblyInfo.cs
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Health Calculator\obj\Debug\net5.0\Health Calculator.csproj.CoreCompileInputs.cache
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Health Calculator\bin\Debug\net5.0\Health Calculator.exe
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Health Calculator\bin\Debug\net5.0\Health Calculator.deps.json
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Health Calculator\bin\Debug\net5.0\Health Calculator.runtimeconfig.json
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Health Calculator\bin\Debug\net5.0\Health Calculator.runtimeconfig.dev.json
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Health Calculator\bin\Debug\net5.0\Health Calculator.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Health Calculator\bin\Debug\net5.0\ref\Health Calculator.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Health Calculator\bin\Debug\net5.0\Health Calculator.pdb
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Health Calculator\obj\Debug\net5.0\Health Calculator.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Health Calculator\obj\Debug\net5.0\ref\Health Calculator.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Health Calculator\obj\Debug\net5.0\Health Calculator.pdb
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Health Calculator\obj\Debug\net5.0\Health Calculator.genruntimeconfig.cache
